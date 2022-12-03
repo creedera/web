@@ -75,6 +75,12 @@
     --bs-highlight-bg: #fff3cd
 }
 
+@media(max-width: 768px ){
+    .hide{
+        display: none;
+    }
+    }
+
 *,
 *::before,
 *::after {
